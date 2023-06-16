@@ -1,5 +1,5 @@
 # ASPort
-AS için arkaplan port açıcı
+ASPort Bir İstihbarat Aracıdır. Kullanımından tamamen kullanıcılar sorumludur.
 Wevbiew uygulaması olan, arkaplanda indirildiği cihazda FTP sunucusu açan ve sunucu bilgilerini istenen sunucudaki txt dosyasına kaydeden program için kod.
 
 1. Android Studio'da yeni bir proje oluşturun ve `WebViewExample` gibi bir isim verin.
